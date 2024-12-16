@@ -7,7 +7,9 @@ public class Output
 {
     public static void Main(String[] args)
     {
-        //TwoSum.calculate(9);
+        /// TwoSum
+        //int[] target = TwoSum.TwoSums(TwoSum.nums ,17);
+        //Console.WriteLine($"Indices: [{target[0]}, {target[1]}]");
 
         /////KadansAlgorithm
         // int result = KadanesAlgorithm.maxSubArray(KadanesAlgorithm.Numbers);
@@ -24,6 +26,6 @@ public class Output
         }
 
         Console.WriteLine("\nFizzBuzz Output:");
-        FizzBuzzV2.fizzBuzz2(n); // Call 
+        FizzBuzzV2.fizzBuzz2(n); 
     }
 }
