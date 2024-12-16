@@ -30,6 +30,5 @@ public class Output
 
         //ArrayInsertionEtc.ArrayInsertAtTheEnd(8);
         ArrayInsertions.ArrayInsertAnywhere(0,13);
-
     }
 }
