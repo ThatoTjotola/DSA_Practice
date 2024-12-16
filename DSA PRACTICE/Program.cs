@@ -16,16 +16,19 @@ public class Output
         // Console.WriteLine($"Output{result}");
 
         //  FizzBuzz
-        Console.WriteLine("Enter a number for FizzBuzz:");
-        int n;
+        //Console.WriteLine("Enter a number for FizzBuzz:");
+        //int n;
 
-        // Check if user input is valid
-        while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
-        {
-            Console.WriteLine("Invalid input. Please enter a positive number:");
-        }
+        //// Check if user input is valid
+        //while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
+        //{
+        //    Console.WriteLine("Invalid input. Please enter a positive number:");
+        //}
 
-        Console.WriteLine("\nFizzBuzz Output:");
-        FizzBuzzV2.fizzBuzz2(n); 
+        //Console.WriteLine("\nFizzBuzz Output:");
+        //FizzBuzzV2.fizzBuzz2(n); // Call 
+
+        //ArrayInsertionEtc.ArrayInsertAtTheEnd(8);
+        ArrayInsertions.ArrayInsertAnywhere(0,13);
     }
 }
