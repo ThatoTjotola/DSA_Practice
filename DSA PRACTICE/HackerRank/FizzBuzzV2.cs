@@ -2,9 +2,7 @@
 {
     public class FizzBuzzV2
     {
-
         //FIZZBUZ OPTIMIZED 
-
         public static void fizzBuzz2(int n)
         {
             for (int i = 1; i <= n; i++)
