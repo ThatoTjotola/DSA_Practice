@@ -1,6 +1,6 @@
 README - Interview Preparation Project
 
-This repository is dedicated to practicing and preparing for an Amazon Junior Software Engineer Interview. It is structured to help you master both the coding challenges and the behavioral interview aspects required for success at Amazon.
+This repository is dedicated to practicing and preparing for an Junior Software Engineer Interview. It is structured to help you master both the coding challenges and the behavioral interview aspects required for success at Amazon.
 
 🚀 Project Goals
 
